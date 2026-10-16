@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alphapicksreviews-oss.github.io/sitemap.xml
